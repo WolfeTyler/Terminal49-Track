@@ -1,19 +1,11 @@
 {
-	"bookings": [{
-		"booking_number":"TXG790195100",
-		"steamship_line":"PIL",
-		"origin":"XINGANG [CNTXG]",
-		"destination":"OAKLAND [USOAK]",
-		"containers":[
-		    {
-		      "number":"PCIU1857050",
-		      "size":"20GP",
-		      "type":"20GP",
-		      "last_status":"Empty Container",
-		      "location":"OAKLAND",
-		      "last_status_at":"2017-05-19 15:41:00"
-		    }
-		]
-	}]
+  "bookings": [
+    {
+      "id": 1,
+      "booking_number":"TXG790195100",
+	"steamship_line":"PIL",
+	"origin":"XINGANG [CNTXG]",
+	"destination":"OAKLAND [USOAK]"
+    }
+  ]
 }
-
