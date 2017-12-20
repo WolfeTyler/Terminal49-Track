@@ -30,5 +30,39 @@
     "following": 0,
     "created_at": "2014-12-30T22:38:17Z",
     "updated_at": "2017-11-27T02:09:36Z"
-  }]}
+  },
+            {
+    "login": "TylerWolfe",
+    "id": 10353231,
+    "avatar_url": "https://avatars3.githubusercontent.com/u/10353231?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/WolfeTyler",
+    "html_url": "https://github.com/WolfeTyler",
+    "followers_url": "https://api.github.com/users/WolfeTyler/followers",
+    "following_url": "https://api.github.com/users/WolfeTyler/following{/other_user}",
+    "gists_url": "https://api.github.com/users/WolfeTyler/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/WolfeTyler/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/WolfeTyler/subscriptions",
+    "organizations_url": "https://api.github.com/users/WolfeTyler/orgs",
+    "repos_url": "https://api.github.com/users/WolfeTyler/repos",
+    "events_url": "https://api.github.com/users/WolfeTyler/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/WolfeTyler/received_events",
+    "type": "User",
+    "site_admin": false,
+    "name": "Tyler",
+    "company": null,
+    "blog": "https://code4therestofus.wordpress.com/",
+    "location": "Kentucky",
+    "email": null,
+    "hireable": true,
+    "bio": "A software developer working on ops projects using Ruby on Rails, Java, JS, jQuery, Python, Django, PostgreSQL, Android, Heroku, Git, Bootstrap",
+    "public_repos": 16,
+    "public_gists": 0,
+    "followers": 1,
+    "following": 0,
+    "created_at": "2014-12-30T22:38:17Z",
+    "updated_at": "2017-11-27T02:09:36Z"
+  }
+           
+           ]}
 
