@@ -1,4 +1,5 @@
-"bookings": [
+{
+	"bookings": [
 
 	{
 		"booking_number": "TXG790214500",
@@ -76,4 +77,4 @@
 			}
 		]
 	}
-]
+]}
