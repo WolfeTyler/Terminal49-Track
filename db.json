@@ -1,5 +1,4 @@
-{
-  "bookings": [
+
     { "booking_number":"TXG790195100", "steamship_line":"PIL", "origin":"XINGANG [CNTXG]", "destination":"OAKLAND [USOAK]",
 	  "containers":[
 	    {
@@ -11,5 +10,4 @@
 	      "last_status_at":"2017-05-19 15:41:00"
 	    }
 		] }
-  ]
-}
+
