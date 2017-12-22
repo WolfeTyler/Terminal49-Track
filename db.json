@@ -10,8 +10,8 @@
     "last_status":"Empty Container",
     "location":"OAKLAND",
     "last_status_at":"2017-05-19 15:41:00",
-    "location": "XINGANG [CNTXG]",
-    "bio": "PIL"
+    "origin": "XINGANG [CNTXG]",
+    "steamship_line": "PIL"
   },
             {
     "login": "TylerWolfe",
