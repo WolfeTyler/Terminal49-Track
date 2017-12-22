@@ -1,6 +1,7 @@
 {
   "users": [{
     "id": 790195100,
+    "booking_number":"TXG790195100",
     "destination": "OAKLAND [USOAK]",
     "vessel": "CSCL AUTUMN",
     "vessel_eta": "2017-05-15",
@@ -15,6 +16,7 @@
   },
             {
     "id": 790214500,
+    "booking_number":"TXG790214500",
     "destination": "OAKLAND [USOAK]",
     "vessel": "CSCL AUTUMN",
     "vessel_eta": "2017-05-15",
